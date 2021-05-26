@@ -1,0 +1,55 @@
+{
+	"productos":[
+		{"camisetas":[{"mangaCorta":[{
+										"marca":"Mike",
+										"talla":["S","M","L"]
+									}]},
+
+
+
+					{"mangaLarga":	[{
+										"marca":"Mike",
+										"talla":["S","M","L"]
+									}]},
+
+					{"sinManga":	[{
+										"marca":"Gordan",
+										"talla":["M","L","XL"]
+									}]}
+					]},
+
+		{"pantalones":[{"cortos":[{
+									"marca":"Gordan",
+									"talla":["S","M","XL"]
+								}]},
+						{"cortos":[{
+									"marca":"Mike",
+									"talla":["S","M"]
+								}]},
+						{"largos":[{
+									"marca":"Addidas",
+									"talla":["M","XL"]
+								}]}
+					]},
+
+
+
+
+		{"zapatillas":[{"baloncesto":[{	
+									"marca":"Gordan",
+									"talla":["41","43","45"]
+									}]},
+						{"futbol":[{
+									"marca":"Messirve",
+									"talla":["40","41","42"]
+									}]},
+
+						{"baloncesto":[{
+									"marca":"Mike",
+									"talla":["44","45","46"]
+									}]}
+					]}],
+	"usuario":[{"nombreTienda":"SportShop"},
+				{"nombreUsuario":"JonyMelavo"},
+				{"correo":"eseJoni@gmail.com"}]
+}
